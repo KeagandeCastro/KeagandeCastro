@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Keagan 👋</h1>
-<h3 align="center">Senior Software Developer & Director · Building products end-to-end</h3>
+<h3 align="center">Software Developer · Building products end-to-end</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-stack+dev+%7C+Next.js+%2F+React+%2F+Supabase;Founder+%40+KDC+Holdings;Building+the+1+Million+Beers+App;Property+investor+%7C+SA+commune+model" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a senior software developer and director at **KDC Holdings (Pty) Ltd**, based in Pretoria, South Africa. I work full-stack — from shipping mobile subscription paywalls to building out financial models in Excel — and I like owning a project from idea to production.
+I'm a software developer and director at **KDC Holdings (Pty) Ltd** && **507 Group (Pty) Ltd**, based in Pretoria, South Africa. I work full-stack — from shipping mobile subscription paywalls to building out financial models in Excel — and I like owning a project from idea to production.
 
 - 🍺 Building **1 Million Beers App** — a beer-tracking mobile app with live subscription paywalls on iOS & Android
 - 🏠 Investing in South African property, focused on the commune/room-rental model
@@ -36,7 +36,7 @@ I'm a senior software developer and director at **KDC Holdings (Pty) Ltd**, base
 ### 📱 Featured Project
 
 <a href="https://github.com/KeagandeCastro" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KeagandeCastro&repo=1-million-beers-app&theme=tokyonight" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KeagandeCastro&repo=1MillionBeersV2&theme=tokyonight" width="48%" />
 </a>
 
 **1 Million Beers App** — a beer-tracking mobile app with full subscription paywall compliance for App Store (Guideline 3.1.2) and Google Play.
@@ -60,7 +60,7 @@ I'm a senior software developer and director at **KDC Holdings (Pty) Ltd**, base
 
 ### ⛳ Life Outside Code
 
-Running · Golf · Hockey · Padel · Snowboarding — if it's outdoors and competitive, I'm probably into it.
+Running · Golf · Hockey · Padel · Snowboarding · Dota 2 — if it's outdoors and competitive, I'm probably into it.
 
 ---
 
